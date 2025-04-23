@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BranchesInGitApplication {
 
 	public static void main(String[] args) {
+ 		float f = 67.7f
 		SpringApplication.run(BranchesInGitApplication.class, args);
 	}
 
